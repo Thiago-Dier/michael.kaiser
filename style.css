@@ -1,0 +1,129 @@
+body {
+width: 80%;
+margin: 0 auto;
+padding: 2% 0;
+background: linear-gradient(135deg, #111d61, #070e74);
+color: #e6d3a3;
+line-height: 1.5;
+font-family: 'Segoe UI', sans-serif;
+}
+
+main {
+background: #010033;
+padding: 25px;
+border-radius: 15px;
+box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+}
+
+h1 {
+color: gold;
+text-shadow: 0 0 10px rgba(255, 215, 0, 0.7);
+}
+
+h2 {
+color: #ffd700;
+}
+
+div {
+margin-top: 20px;
+padding: 15px;
+border-top: 1px solid rgba(255, 215, 0, 0.3);
+transition: 0.3s;
+}
+
+div:hover {
+background: rgba(255, 215, 0, 0.05);
+transform: scale(1.01);
+}
+
+a {
+color: #ffd700;
+text-decoration: none;
+}
+
+a:hover {
+color: white;
+text-shadow: 0 0 5px gold;
+}
+
+img {
+border-radius: 10px;
+transition: 0.3s;
+}
+
+img:hover {
+transform: scale(1.05);
+box-shadow: 0 0 15px gold;
+}
+
+table {
+width: 100%;
+border-collapse: collapse;
+margin-top: 10px;
+}
+
+th {
+background: gold;
+color: black;
+padding: 10px;
+}
+
+td {
+border: 1px solid gold;
+padding: 10px;
+}
+
+tr:hover {
+background: rgba(255, 215, 0, 0.1);
+}
+
+iframe {
+border: 2px solid gold;
+border-radius: 10px;
+}
+
+.container {
+width: 80%;
+margin: 0 auto;
+}
+
+.topo {
+text-align: center;
+margin-bottom: 20px;
+}
+
+.foto {
+width: 150px;
+border-radius: 50%;
+box-shadow: 0 0 20px gold;
+}
+
+.slogan {
+font-style: italic;
+color: #ffd700;
+}
+
+.menu {
+text-align: center;
+margin-bottom: 20px;
+}
+
+.menu a {
+margin: 0 10px;
+color: gold;
+font-weight: bold;
+}
+
+.bloco {
+padding: 20px;
+margin-top: 20px;
+border-top: 1px solid rgba(255, 215, 0, 0.3);
+}
+
+.destaque {
+background: linear-gradient(45deg, #06023d, #1d0479);
+border: 2px solid gold;
+box-shadow: 0 0 25px rgba(255, 215, 0, 0.5);
+}
+
+
